@@ -1,0 +1,27 @@
+﻿Build started 12/25/2017 12:43:02 PM.
+     1>Project "C:\Users\M AHMED\Downloads\NewSetAssoc\SetAssoc\SetAssoc.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SetAssoc.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManagedIncrementalBuildPostProcessDependencyGraph:
+         To improve incremental build performance for managed components, please make sure that the 'VC++ Directories->Reference Directories' points to all the paths which contain the referenced managed assemblies.
+         Could not load file or assembly 'file:///C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 10.0\VC\BIN\1033\CLUI.DLL' or one of its dependencies. The system cannot find the file specified.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       Link:
+         All outputs are up-to-date.
+         SetAssoc.vcxproj -> C:\Users\M AHMED\Downloads\NewSetAssoc\Debug\SetAssoc.exe
+       MetaGen:
+       Skipping target "MetaGen" because all output files are up-to-date with respect to the input files.
+       FinalizeBuildStatus:
+         Deleting file "Debug\SetAssoc.unsuccessfulbuild".
+         Touching "Debug\SetAssoc.lastbuildstate".
+     1>Done Building Project "C:\Users\M AHMED\Downloads\NewSetAssoc\SetAssoc\SetAssoc.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
